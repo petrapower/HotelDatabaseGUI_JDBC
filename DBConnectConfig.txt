@@ -1,0 +1,3 @@
+DatabaseURL=jdbc:mysql://vergil.u.washington.edu:5555
+DatabaseUser=petra
+DatabasePassword=petra1
